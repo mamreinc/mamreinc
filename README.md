@@ -123,7 +123,6 @@ As an Information Technology Support Officer, I specialize in delivering compreh
 ## 🌍 Connect with Me  
 - **LinkedIn:** [Moe Alamrein](https://www.linkedin.com/in/moeamrein)  
 - **SoundCloud:** [My Podcast](https://soundcloud.com/moeamrein)  
-- **GitHub:** [Your GitHub Profile](https://github.com/YourUsername)  
 
 ---
 
