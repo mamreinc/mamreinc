@@ -8,8 +8,14 @@ My primary focus is educating employees and developers about **cybersecurity ris
 
 [![Watch the video](https://img.youtube.com/vi/Xxx2LPcsltc/maxresdefault.jpg)](https://www.youtube.com/watch?v=Xxx2LPcsltc)
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" 
-src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/moeamrein&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>---
+# 🎵 My Podcast
+
+Check out my latest tracks on **SoundCloud**:
+
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/moeamrein)
+
+Or click the link below:  
+[🎧 Listen to my SoundCloud profile](https://soundcloud.com/moeamrein)
 
 ## 🛡️ Cybersecurity Expertise  
 
