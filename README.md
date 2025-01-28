@@ -5,17 +5,7 @@
 Hi there! My name is **Muhaisen Alamrein**, **Moe for shourt**—I’m fond of both! My journey in IT began over **9 years ago**, fueled by a passion for technology, problem-solving, and secure innovation. Over the years, I’ve built a career that spans continents, industries, and technologies, dedicated to delivering **secure, scalable solutions** and **raising cybersecurity awareness**.
 
 My primary focus is educating employees and developers about **cybersecurity risks** and embedding secure practices into an organization’s culture and software development lifecycle.
-
 [![Watch the video](https://img.youtube.com/vi/Xxx2LPcsltc/maxresdefault.jpg)](https://www.youtube.com/watch?v=Xxx2LPcsltc)
-
-# 🎵 My Podcast
-
-Check out my latest tracks on **SoundCloud**:
-
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/moeamrein)
-
-Or click the link below:  
-[🎧 Listen to my SoundCloud profile](https://soundcloud.com/moeamrein)
 
 ## 🛡️ Cybersecurity Expertise  
 
@@ -131,7 +121,11 @@ As an Information Technology Support Officer, I specialize in delivering compreh
 
 ## 🌍 Connect with Me  
 - **LinkedIn:** [Moe Alamrein](https://www.linkedin.com/in/moeamrein)  
-- **SoundCloud:** [My Podcast](https://soundcloud.com/moeamrein)  
+- **SoundCloud:** [My Podcast](https://soundcloud.com/moeamrein)
+  [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/moeamrein)
+
+Or click the link below:  
+[🎧 Listen to my SoundCloud profile](https://soundcloud.com/moeamrein)
 
 ---
 
