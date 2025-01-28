@@ -7,7 +7,9 @@ Hi there! My name is **Muhaisen Alamrein**, **Moe for shourt**—I’m fond of b
 My primary focus is educating employees and developers about **cybersecurity risks** and embedding secure practices into an organization’s culture and software development lifecycle.
 
 
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/moeamrein) [![YouTube](https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg)](https://www.youtube.com/watch?v=Xxx2LPcsltc)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/moeamrein) [!<a href="https://www.youtube.com/watch?v=Xxx2LPcsltc" target="_blank">
+    <img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/FE503887-9466-4761-8188-3CC63F9AD4A2.png" width="16" height="16">
+</a>
 
 
 ## 🛡️ Cybersecurity Expertise  
