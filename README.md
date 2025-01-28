@@ -119,11 +119,15 @@ As an Information Technology Support Officer, I specialize in delivering compreh
 ---
 
 ## 🌍 Connect with Me  
-- **LinkedIn:** [Moe Alamrein](https://www.linkedin.com/in/moeamrein)  
+- **LinkedIn:** [Moe Alamrein](https://www.linkedin.com/in/moeamrein)
+  
+[🎵 Check out my SoundCloud profile for my tracks](https://soundcloud.com/moeamrein)
 
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/moeamrein)  <a href="https://www.youtube.com/watch?v=Xxx2LPcsltc" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/youtube-play.png" width="" height="">
-</a>
+# 🎥 My Video on YouTube
+
+Check out my latest video here:
+
+[![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/watch?v=Xxx2LPcsltc)
 
 
 
