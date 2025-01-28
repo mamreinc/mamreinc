@@ -8,7 +8,7 @@ My primary focus is educating employees and developers about **cybersecurity ris
 
 
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/moeamrein) 
-[![YouTube](https://raw.githubusercontent.com/yourusername/yourrepository/main/FE503887-9466-4761-8188-3CC63F9AD4A2.png)](https://www.youtube.com/watch?v=Xxx2LPcsltc)
+[![YouTube]([https://raw.githubusercontent.com/yourusername/yourrepository/main/FE503887-9466-4761-8188-3CC63F9AD4A2.png](https://img.icons8.com/ios-filled/50/youtube-play.png))](https://www.youtube.com/watch?v=Xxx2LPcsltc)
 
 
 ## 🛡️ Cybersecurity Expertise  
