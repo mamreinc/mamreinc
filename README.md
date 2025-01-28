@@ -12,7 +12,6 @@ My primary focus is educating employees and developers about **cybersecurity ris
 [![Watch the video](https://img.youtube.com/vi/Xxx2LPcsltc/maxresdefault.jpg)](https://www.youtube.com/watch?v=Xxx2LPcsltc)
 
 
-
 ## 🛡️ Cybersecurity Expertise  
 
 - **Security Awareness & Training**: Promoting secure practices within organizations.  
