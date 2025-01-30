@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Works - Moe Amrein</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Arial', sans-serif;
+            background-color: #111;
+            color: #fff;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        .container {
+            display: flex;
+            height: 100vh;
+        }
+
+        .left-section {
+            background-color: #222;
+            width: 50%;
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            clip-path: polygon(0 0, 100% 0, 100% 100%, 10% 100%);
+            overflow: hidden;
+        }
+
+        .left-section img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            filter: grayscale(100%);
+            transform: scale(1.1);
+            clip-path: polygon(0 0, 90% 0, 100% 100%, 0% 100%);
+        }
+
+        .right-section {
+            background-color: #111;
+            width: 50%;
+            padding: 50px;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            overflow-y: auto;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #fcd64f;
+            margin-bottom: 20px;
+        }
+
+        .description {
+            font-size: 1.2rem;
+            color: #ddd;
+            margin-bottom: 20px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+            margin: 0 auto;
+        }
+
+        .project-item {
+            background-color: #222;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+            transition: transform 0.3s ease;
+        }
+
+        .project-item:hover {
+            transform: translateY(-10px);
+        }
+
+        .project-item h3 {
+            font-size: 1.2rem;
+            color: #fcd64f;
+            margin: 10px 0;
+        }
+
+        .project-item a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        .project-item a:hover {
+            color: #fcd64f;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+            }
+
+            .left-section, .right-section {
+                width: 100%;
+                height: auto;
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
+
+            .grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="left-section">
+            <img src="https://i.ibb.co/Z2dhvyS/IMG-0463.jpg" alt="Profile Image">
+        </div>
+        <div class="right-section">
+            <h1>My Works</h1>
+            <p class="description">
+                Examples of Successful Project Delivery: Projects I created or participated in developing or delivering as part of my previous employment.
+            </p>
+            <div class="grid">
+                <div class="project-item"><a href="https://buildimpossible.com/" target="_blank"><h3>BuildImpossible.com</h3></a></div>
+                <div class="project-item"><a href="https://theripkit.com/" target="_blank"><h3>TheRipKit.com</h3></a></div>
+                <div class="project-item"><a href="https://businessinstincts.com/" target="_blank"><h3>Business Instincts</h3></a></div>
+                <div class="project-item"><a href="https://vitalintelligencedata.com/" target="_blank"><h3>Vital Intelligence Data</h3></a></div>
+                <div class="project-item"><a href="https://draganfly.com/" target="_blank"><h3>Draganfly.com</h3></a></div>
+                <div class="project-item"><a href="https://musicfx.io/" target="_blank"><h3>MusicFX.io</h3></a></div>
+                <div class="project-item"><a href="https://currencyworks.io/" target="_blank"><h3>CurrencyWorks.io</h3></a></div>
+                <div class="project-item"><a href="https://maxphaos.io/" target="_blank"><h3>MaxPhaos.io</h3></a></div>
+                <div class="project-item"><a href="https://cuecontact.com/" target="_blank"><h3>CueContact.com</h3></a></div>
+                <div class="project-item"><a href="https://warsawlegal.pl/" target="_blank"><h3>WarsawLegal.pl</h3></a></div>
+                <div class="project-item"><a href="https://palestine.pl/" target="_blank"><h3>Palestine.pl</h3></a></div>
+                <div class="project-item"><a href="https://www.palestyna.eu/" target="_blank"><h3>Palestyna.eu</h3></a></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
