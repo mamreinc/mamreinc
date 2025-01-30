@@ -4,7 +4,7 @@
 
 - [🔒 Cybersecurity Specialist](#cybersecurity-specialist--it-professional-with-global-expertise)  
 - [🛡️ Cybersecurity Expertise](#%EF%B8%8F-cybersecurity-expertise)
-- [📜 Cybersecurity Certifications](#cybersecurity-certifications)  
+- [📜 Cybersecurity Certifications](#-cybersecurity-certifications)  
 - [🎓 Education](#education)  
 - [🛠️ Professional Certifications & Training](#professional-certifications--training)  
 - [💻 Technical Skills](#technical-skills)  
