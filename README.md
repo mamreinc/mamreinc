@@ -1,17 +1,16 @@
 # Muhaisen - (Moe) for short
 
-## 📌 Quick Navigation  
-
-- [🔒 Cybersecurity Specialist](#-cybersecurity-specialist--it-professional-with-global-expertise)  
-- [🛡️ Cybersecurity Expertise](#-cybersecurity-expertise-)  
-- [📜 Certifications](#-cybersecurity-certifications-)  
-- [🎓 Education](#-education-)  
-- [🛠️ Certifications & Training](#-professional-certifications--training-)  
-- [💻 Technical Skills](#-technical-skills-)  
-- [🌟 Career Highlights](#-career-highlights-)  
-- [🎯 Current Focus](#-current-focus-)  
-- [🌍 Connect with Me](#-connect-with-me-)  
-- [💡 Featured Projects](#-featured-projects-)  
+## 📌 Menu  
+[🔒 Cybersecurity Specialist](#-cybersecurity-specialist--it-professional-with-global-expertise) | 
+[🛡️ Cybersecurity Expertise](#-cybersecurity-expertise) | 
+[📜 Certifications](#-cybersecurity-certifications) | 
+[🎓 Education](#-education) | 
+[🛠️ Certifications & Training](#-professional-certifications--training) | 
+[💻 Technical Skills](#-technical-skills) | 
+[🌟 Career Highlights](#-career-highlights) | 
+[🎯 Current Focus](#-current-focus) | 
+[🌍 Connect with Me](#-connect-with-me) | 
+[💡 Featured Projects](#-featured-projects)  
 ---  
 
 
