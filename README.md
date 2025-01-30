@@ -126,7 +126,7 @@ As an Information Technology Support Officer, I specialize in delivering compreh
 # 🎥 My Video on YouTube
 
 
-[![Watch the video](https://img.youtube.com/vi/Xxx2LPcsltc/maxresdefault.jpg)](https://youtu.be/RDx9x96vg-w)
+[![Watch the video]](https://youtu.be/RDx9x96vg-w)
 
 
 ---
