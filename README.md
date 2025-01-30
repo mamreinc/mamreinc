@@ -1,5 +1,19 @@
 # Muhaisen - (Moe) for short
 
+## 📌 Menu  
+[🔒 Cybersecurity Specialist](#-cybersecurity-specialist--it-professional-with-global-expertise) | 
+[🛡️ Cybersecurity Expertise](#-cybersecurity-expertise) | 
+[📜 Certifications](#-cybersecurity-certifications) | 
+[🎓 Education](#-education) | 
+[🛠️ Certifications & Training](#-professional-certifications--training) | 
+[💻 Technical Skills](#-technical-skills) | 
+[🌟 Career Highlights](#-career-highlights) | 
+[🎯 Current Focus](#-current-focus) | 
+[🌍 Connect with Me](#-connect-with-me) | 
+[💡 Featured Projects](#-featured-projects)  
+---  
+
+
 ## 🔒 Cybersecurity Specialist | IT Professional with Global Expertise  
 
 Hi there! My name is **Muhaisen Alamrein**, **(Moe) for short**—! My journey in IT began over **9 years ago**, fueled by a passion for technology, problem-solving, and secure innovation. Over the years, I’ve built a career that spans continents, industries, and technologies, dedicated to delivering **secure, scalable solutions** and **raising cybersecurity awareness**.
