@@ -135,6 +135,20 @@ As an Information Technology Support Officer, I specialize in delivering compreh
 ### Open-Source Work in Progress  
 - **Cybersecurity Awareness Tools**: Resources to enhance security training programs.  
 - **WordPress Plugins**: Security-focused custom plugins.  
-- **IT Automation Scripts**: Tools for streamlining IT support operations.  
+- **IT Automation Scripts**: Tools for streamlining IT support operations.
+
+### **WordPress Projects**
+- **[BuildImpossible.com](https://buildimpossible.com/)**
+- **[TheRipKit.com](https://theripkit.com/)**
+- **[Business Instincts](https://businessinstincts.com/)**
+- **[Vital Intelligence Data](https://vitalintelligencedata.com/)**
+- **[Draganfly.com](https://draganfly.com/)**
+- **[MusicFX.io](https://musicfx.io/)**
+- **[CurrencyWorks.io](https://currencyworks.io/)**
+- **[MaxPhaos.io](https://maxphaos.io/)**
+- **[CueContact.com](https://cuecontact.com/)**
+- **[WarsawLegal.pl](https://warsawlegal.pl/)**
+- **[Palestine.pl](https://palestine.pl/)**
+- **[Palestyna.eu](https://www.palestyna.eu/)**
 
 Feel free to explore my repositories or collaborate with me on exciting projects!
