@@ -6,7 +6,7 @@
 - [🛡️ Cybersecurity Expertise](#%EF%B8%8F-cybersecurity-expertise)
 - [📜 Cybersecurity Certifications](#-cybersecurity-certifications)  
 - [🎓 Education](#-education)  
-- [🛠️ Professional Certifications & Training](#-professional-certifications--training)  
+- [🛠️ Professional Certifications & Training](#%EF%B8%8F-professional-certifications--training)  
 - [💻 Technical Skills](#-technical-skills)  
 - [🌟 Career Highlights](#-career-highlights)  
 - [🎯 Current Focus](#-current-focus)  
