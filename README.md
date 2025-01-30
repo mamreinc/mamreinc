@@ -1,19 +1,25 @@
-ڑ# Muhaisen - (Moe) for short
+# Muhaisen - (Moe) for short
+
+## 📌 Main Menu
+- [Cybersecurity Expertise](#🛡️-cybersecurity-expertise)
+- [Cybersecurity Certifications](#📜-cybersecurity-certifications)
+- [Featured Projects](#💡-featured-projects)
+- [Education](#🎓-education)
+- [Professional Certifications & Training](#🛠️-professional-certifications--training)
+- [Technical Skills](#💻-technical-skills)
+- [Career Highlights](#🌟-career-highlights)
+- [Current Focus](#🎯-current-focus)
+- [Connect with Me](#🌍-connect-with-me)
+
+---
+
+# Muhaisen - (Moe) for short
 
 ## 🔒 Cybersecurity Specialist | IT Professional with Global Expertise  
 
-## 📌 Main Menu
-- [Cybersecurity Expertise](#-cybersecurity-expertise)
-- [Cybersecurity Certifications](#-cybersecurity-certifications)
-- [Featured Projects](#-featured-projects)
-- [Education](#-education)
-- [Professional Certifications & Training](#-professional-certifications--training)
-- [Technical Skills](#-technical-skills)
-- [Career Highlights](#-career-highlights)
-- [Current Focus](#-current-focus)
-- [Connect with Me](#-connect-with-me)
+Hi there! My name is **Muhaisen Alamrein**, **(Moe) for short**—! My journey in IT began over **9 years ago**, fueled by a passion for technology, problem-solving, and secure innovation. Over the years, I’ve built a career that spans continents, industries, and technologies, dedicated to delivering **secure, scalable solutions** and **raising cybersecurity awareness**.
 
----
+My primary focus is educating employees and developers about **cybersecurity risks** and embedding secure practices into an organization’s culture and software development lifecycle.
 
 ## 🛡️ Cybersecurity Expertise  
 
@@ -104,10 +110,6 @@
 - **Incident Response Preparation**: Equipping teams with actionable knowledge for cyber incident handling.  
 - **Collaboration with Red & Blue Teams**: Identifying risks and developing mitigations.  
 - **Policy Implementation**: Embedding security workflows into organizational processes.  
-
-### **General Cybersecurity Skills**  
-- Threat Detection | Risk Management | Identity Access Management (IAM)  
-- Firewall Management | Endpoint Protection | Cloud Security  
 
 ---
 
