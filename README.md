@@ -11,7 +11,7 @@
 - [🌟 Career Highlights](#-career-highlights)  
 - [🎯 Current Focus](#-current-focus)  
 - [🌍 Connect with Me](#-connect-with-me)  
-- [💡 Featured Projects](#-featured-projects)  
+- [💡 Portfolio](#-featured-projects)  
 
 ---  
 
