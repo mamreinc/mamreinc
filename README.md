@@ -18,8 +18,8 @@
 
 ## 🔒 Cybersecurity Specialist | IT Professional with Global Expertise  
 
-Hi there! My name is **Muhaisen Alamrein**, **(Maisen) for short**—! My journey in IT began over **9 years ago**, fueled by a passion for technology, problem-solving, and secure innovation. Over the years, I’ve built a career that spans continents, industries, and technologies, dedicated to delivering **secure, scalable solutions** and **raising cybersecurity awareness**.
-### Some people like to call me Moe or Max, but **I prefer to be called Maisen**
+Hi there! My name is **Muhaisen Alamrein**, **(Maisen) for short**—! ### Some people like to call me Moe or Max, but **I prefer to be called Maisen** My journey in IT began over **9 years ago**, fueled by a passion for technology, problem-solving, and secure innovation. Over the years, I’ve built a career that spans continents, industries, and technologies, dedicated to delivering **secure, scalable solutions** and **raising cybersecurity awareness**.
+
 
 My primary focus is educating employees and developers about **cybersecurity risks** and embedding secure practices into an organization’s culture and software development lifecycle.
 
