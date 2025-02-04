@@ -136,7 +136,7 @@ As an Information Technology Support Officer, I specialize in delivering compreh
 ---
 
 ## 🌍 Connect with Me  
-**LinkedIn:** [Moe Alamrein](https://www.linkedin.com/in/moeamrein)
+**LinkedIn:** [Mason Alamrein](https://www.linkedin.com/in/moeamrein)
   
 [🎵 Check out my Tech Evolution Podcast](https://soundcloud.com/moeamrein)
 
