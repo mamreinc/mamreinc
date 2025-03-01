@@ -1,4 +1,4 @@
-# Muhaisen - (Mason) for short
+# Muhaisen - (Maisen) for short
 
 ## 📌 Quick Navigation  
 
@@ -18,7 +18,7 @@
 
 ## 🔒 Cybersecurity Specialist | IT Professional with Global Expertise  
 
-Hi there! My name is **Muhaisen Alamrein**. Some may know me as Max or Moe, but moving forward, I go by **Mason**.  —! My journey in IT began over **9 years ago**, fueled by a passion for technology, problem-solving, and secure innovation. Over the years, I’ve built a career that spans continents, industries, and technologies, dedicated to delivering **secure, scalable solutions** and **raising cybersecurity awareness**.
+Hi there! My name is **Muhaisen Alamrein**. - (Maisen) for short.  —! My journey in IT began over **9 years ago**, fueled by a passion for technology, problem-solving, and secure innovation. Over the years, I’ve built a career that spans continents, industries, and technologies, dedicated to delivering **secure, scalable solutions** and **raising cybersecurity awareness**.
 
 
 My primary focus is educating employees and developers about **cybersecurity risks** and embedding secure practices into an organization’s culture and software development lifecycle.
